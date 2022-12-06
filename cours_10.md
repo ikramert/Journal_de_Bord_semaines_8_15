@@ -2,7 +2,7 @@
 ## Retour sur la visite de SidLee et PixMob
 
 ### Intérêt
-Laquelle des conférences as-tu préféré et pourquoi? (2 à 3 lignes) 
+Je n'ai pas assisté aux visites par contre je suis aller me familiarisé avec ces entreprises. Je préférée SidLee car sa rejoint plus mes intêrets personels et j'aime aussi la notoriété de la compagnie. Leur nom est reconnu sur la scène mondiale et ils ont plusieurs bureau à travers le monde.
 
 ### Travail
-Te verrais-tu travailler dans une des deux entreprises? Si oui, laquelle et pour quelle raison? Si non, pourquoi? (2 à 3 lignes)
+Sid Lee car j'aime l'atmosphère. Celle-ci semble comme une entreprise ou laquelle les possibilités de changements et d'avancements sont possibles au sein de la compagnie. J'aime beaucoup leur style aussi, il raisonne beaucoup avec ma personalité. Les bureaux sont modernes,il semble avoir une très bonne structure au sein de la compagnie.

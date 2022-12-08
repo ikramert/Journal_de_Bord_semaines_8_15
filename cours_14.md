@@ -6,7 +6,7 @@ Durée: 8 à 10 minutes
 La production VR d'un moment de votre choix.   
 
 ### Description du projet 
-Une simulation VR qui fait vivre un moment qui vous est cher. Le client peut ramener un moment de sa vie qu’il a filmé qui lui est cher (ex : Accouchement, mariage etc.) et puis demander à l’équipe de l’animer en VR afin de le garder.
+Une simulation VR qui fait vivre un moment qui vous est cher. Le client peut amener un moment de sa vie qu’il a filmé qui lui est cher (ex : Accouchement, mariage, etc.) et puis demander à l’équipe de l’animer en VR afin de le garder. Il pourra vivre son expérience dans les centre Mont vr ou la maison.
 
 ### Schéma du projet ou scénarimage
 ![image](https://user-images.githubusercontent.com/112107968/206477817-2e0165e1-f8fb-4215-a8e8-54b1b3f4da4d.png)

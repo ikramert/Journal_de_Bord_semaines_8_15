@@ -3,19 +3,37 @@
 Durée: 8 à 10 minutes
 
 ### Résumer votre projet en une phrase
-Résumer le projet en une phrase concise.   
+La production VR d'un moment de votre choix.   
 
 ### Description du projet 
-Décrivez les grandes lignes de votre projet. 
+Une simulation VR qui fait vivre un moment qui vous est cher. Le client peut ramener un moment de sa vie qu’il a filmé qui lui est cher (ex : Accouchement, mariage etc.) et puis demander à l’équipe de l’animer en VR afin de le garder.
 
 ### Schéma du projet ou scénarimage
-Expliquer le déroulement de votre expérience grâce à un schéma narratif ou à un scénarimage. 
+![image](https://user-images.githubusercontent.com/112107968/206477817-2e0165e1-f8fb-4215-a8e8-54b1b3f4da4d.png)
 
 ### Moodboard
-Montrer nous l'allure visuelle et sonore qu'aura votre projet à l'aide d'un moodboard, de maquettes ou de croquis. 
+![image](https://user-images.githubusercontent.com/112107968/206457645-3ba5cfec-f0e3-4005-a8c9-9108472c8e50.png)
+
 
 ### Technologies
-Décrivez quelles seront les technologies utilisées dans votre projet. 
+Realité virtuelle
+animation 3d
+animation 2d
+caméra 360
+L’oculométrie – l’analyse de la position et du mouvement des yeux
+L’affichage d’une scène en 3D
+Détecteur d’expression faciale 
+Manettes dotées de leurs propres capteurs.
 
 ### Tâches
-Quelles sont les tâches nécessaires à la réalisation de votre projet? 
+Scénariste
+Chargé de projet
+Directeur artistique
+Designer graphique
+Programmeur
+Animateur 2d
+Animateur 3d
+Modélisateur 3d
+Vidéaste
+Illustrateur
+
